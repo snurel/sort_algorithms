@@ -1,7 +1,6 @@
 # Sorting Algorithms in Java
 
-This repository contains implementations of five popular sorting algorithms in Java, along with tests and time complexity information for each algorithm.
-
+A small resource where you can access popular ranking algorithms, comparisons and time complexity information.
 ## Algorithms Included
 
 1. **Bubble Sort**
